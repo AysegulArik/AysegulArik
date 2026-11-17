@@ -1,66 +1,77 @@
 # 👋 Hi, I'm Ayşegül Arık
 
-### QA Automation Tester | Software Testing | ASP.NET Core MVC
+### 💜 QA Automation Tester | Software Testing | ASP.NET Core MVC
 
 I'm passionate about Software Quality Assurance, Manual Testing, and Test Automation.
 
-I focus on understanding software quality from both user and technical perspectives. I continuously improve my skills through practical projects and hands-on learning.
+I focus on understanding software quality from both user and technical perspectives. I continuously improve my technical skills through hands-on projects and continuous learning.
 
 ---
 
-### 🛠️ Technologies & Tools
+## 👩‍💻 About Me
 
-**Testing & Automation**
+- 🔍 Interested in Software Testing and Quality Assurance.
+- 🧪 Learning and practicing Test Automation.
+- 💻 Developing applications with ASP.NET Core MVC.
+- 📚 Continuously improving my technical skills.
+- 🎯 Focused on software quality and reliable applications.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Testing & Automation
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
-**Development & Database**
+### Development & Database
 
 ![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**Version Control**
+### Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 
 - ASP.NET Core MVC
+- Entity Framework Core
 - Backend Development
 - Software Test Automation
 - Database Management
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-**[MYAcademi Identity Email Project](https://github.com/AysegulArik/MYAkademi_IdentityEmailProject)**
+### 📌 Identity Email Project
 
-An ASP.NET Core project focused on Identity and email functionality.
+ASP.NET Core Identity and email functionality.
 
-**Portfolio Project**
+[View Repository](https://github.com/AysegulArik/MYAkademi_IdentityEmailProject)
 
-Developing an ASP.NET Core MVC portfolio application with Entity Framework Core and SQL Server.
+### 📌 Portfolio Project
 
----
+An ASP.NET Core MVC portfolio application developed with Entity Framework Core and SQL Server.
 
-### 📊 GitHub Statistics
+### 📌 Test Automation Projects
 
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AysegulArik&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=AysegulArik&layout=compact&theme=default&hide_border=true)
+Exploring automated testing with Selenium and Playwright.
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-AysegulArik-181717?style=for-the-badge&logo=github)](https://github.com/AysegulArik)
+
+---
+
+⭐ Thanks for visiting my profile!
 
