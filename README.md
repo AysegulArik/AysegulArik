@@ -53,9 +53,10 @@ Developing an ASP.NET Core MVC portfolio application with Entity Framework Core 
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AysegulArik&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AysegulArik&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AysegulArik&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=AysegulArik&layout=compact&theme=default&hide_border=true)
 
 ---
 
