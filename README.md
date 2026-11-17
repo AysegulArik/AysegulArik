@@ -1,3 +1,4 @@
+![Aysegul Arik - QA Automation](./assets/profile-banner.png)
 # 👋 Hi, I'm Ayşegül Arık
 
 ### 💜 QA Automation Tester | Software Testing | ASP.NET Core MVC
