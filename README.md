@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ayşegül Arık 👋
 
-<!--
-**AysegulArik/AysegulArik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA Automation Tester | Software Testing | ASP.NET Core MVC
 
-Here are some ideas to get you started:
+I'm interested in Software Testing, Quality Assurance, and Test Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a background in manual testing and I'm developing my automation testing skills through hands-on projects and continuous learning.
+
+### 🛠️ Technologies & Tools
+
+- Java
+- Selenium WebDriver
+- Playwright
+- C#
+- ASP.NET Core MVC
+- SQL Server
+- Git & GitHub
+
+### 📚 Currently Learning
+
+- ASP.NET Core MVC
+- Backend Development
+- Software Test Automation
+
+### 🚀 Projects
+
+Check out my repositories to explore my projects and development journey.
+
+### 📫 Connect with Me
+
+- GitHub: [AysegulArik](https://github.com/AysegulArik)
+- LinkedIn: Add your LinkedIn profile link here
