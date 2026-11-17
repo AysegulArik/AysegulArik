@@ -1,4 +1,6 @@
-![Aysegul Arik - QA Automation](./assets/profile-banner.png)
+<p align="center">
+  <img src="./assets/profile-banner.png" width="100%" alt="Ayşegül Arık - QA Automation">
+</p>
 # 👋 Hi, I'm Ayşegül Arık
 
 ### 💜 QA Automation Tester | Software Testing | ASP.NET Core MVC
