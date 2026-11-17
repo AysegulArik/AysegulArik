@@ -1,6 +1,24 @@
 <p align="center">
   <img src="./assets/profile-banner.png" width="100%" alt="Ayşegül Arık - QA Automation">
 </p>
+<h1 align="center">Hi, I'm Ayşegül Arık 👋</h1>
+
+<h3 align="center">
+  QA Automation Tester | Software Testing | ASP.NET Core MVC
+</h3>
+
+<p align="center">
+  Passionate about Software Quality Assurance,
+  Manual Testing and Test Automation.
+</p>
+
+---
+
+<h2 align="center">🛠️ Technologies & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,selenium,cs,dotnet,visualstudio,git,github,sqlserver" />
+</p>
 # 👋 Hi, I'm Ayşegül Arık
 
 ### 💜 QA Automation Tester | Software Testing | ASP.NET Core MVC
